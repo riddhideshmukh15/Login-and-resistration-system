@@ -3,7 +3,7 @@
 ## 📌 About
 A simple Python-based Login and Registration System that allows users to create an account and log in using their username and password.
 
-This project is created to practise Python fundamentals and understand basic user authentication.
+This project is created to practice Python fundamentals and understand basic user authentication.
 
 ## ✨ Features
 - User Registration
@@ -38,6 +38,3 @@ This project is created to practise Python fundamentals and understand basic use
 
 ## 👩‍💻 Author
 **Riddhi Deshmukh**
-
-## 🎯 Purpose
-Created as a beginner Python project to improve programming and problem-solving skills.
